@@ -6,7 +6,6 @@ This project demonstrates how to complete 10 NLP tasks using entirely free tools
 - **Hugging Face Transformers** (Free models)
 - **Google Colab** (Free GPU)
 - **Sentence-Transformers** (For embeddings)
-- **WordCloud** (For visualization)
 
 ## 📋 Task Solutions
 
