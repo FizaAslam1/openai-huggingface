@@ -1,4 +1,4 @@
-# NLP Project 
+# NLP 
 
 This project demonstrates how to complete 10 NLP tasks using entirely free tools (Hugging Face, Google Colab, and Open Source models).
 
